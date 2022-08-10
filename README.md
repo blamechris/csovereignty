@@ -5,7 +5,7 @@ I'm a pretty positive dude who is still early on in my coding journey, but am al
 Currently my focus is on solidifying my understanding of data structures and algorithms.
 
 Remember to cover your mouth if you're......
-
+```
                                ,----.
                               '      |
                              /       '
