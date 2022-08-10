@@ -1,14 +1,42 @@
-- 👋 Hi, I’m @csovereignty (I go by Chris)
-- 👀 I’m interested in ...
-- Modding, software development, cool projects, PC hardware
-- 🌱 I’m currently learning ...
-- Gui creation and management, using Tkinter right now!
-- 💞️ I’m looking to collaborate on ...
-- Fun network projects! During the Summer '22 I'll be working on my personal projects, but don't hesitate to reach out!
-- 📫 How to reach me ...
-- If you're here hopefully you can answer that question! Otherwise DM me or email me at cbsovereignty@gmail.com
+Hello, I'm csovereignty (AKA Chris) and I'm mainly using this to track my (private) projects!
 
-<!---
-csovereignty/csovereignty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a pretty positive dude who is still early on in my coding journey, but am always up for fun or interesting discussions!
+
+Currently my focus is on solidifying my understanding of data structures and algorithms.
+
+Remember to cover your mouth if you're......
+
+                               ,----.
+                              '      |
+                             /       '
+                       __,..'         "-._        _
+                  _.-""                   `-.   ," `".
+         ,-._  _.'                           `"'      '
+       ,'    `"                                       |
+      .                                               .
+       `.          _.--..               ____          '
+       /         ,'    . `           ,"' .  `.         `.
+      /         .         |         /         \          \
+     /          `------...'        ._____      .          \
+    .                                    `'"""'            \
+    '                    ________                           .
+   j           `.""/'"""`        '"""'"'--....,-            |
+   |             `/.                      ,\ /              `.
+   |                `-._               _.'  '                 `-.
+   |                    `"-----------"'                         |
+ ."                         ____                                |
+|                      ,-""'    `".                            ,'
+|                     .   .----.   `.                        ."
+`.._                  |  '.____,'   |                        '
+    |             ,". `.           ,' _                     /
+    '            '   `._`.'._".__,' .' .                   /
+     .            `'-._ `._     _.-'  _.'                 /
+      `.               `.  `--'" _,.-'                    `
+        .               ,'     ."                          '
+         '        .-..-' _,.--._`"-..,-.                 ,'
+        /         \    ,'       `-.    |           .-'"-"
+        \          `-.'            `..'         _,'
+         `.,.-"`._                           ,-'
+                  `"-.                       |
+                      \       ,..----.     _.'
+                       `""---"        `..-" mh
